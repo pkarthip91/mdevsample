@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/mdvx/static/css/main.69522bd1.css",
+    "main.js": "/mdvx/static/js/main.eab59326.js",
+    "static/js/787.792a50db.chunk.js": "/mdvx/static/js/787.792a50db.chunk.js",
+    "static/media/mpulse_thumbnail1.jpg": "/mdvx/static/media/mpulse_thumbnail1.93e4ca8edb96e8f3c693.jpg",
+    "static/media/carsoule-bg.png": "/mdvx/static/media/carsoule-bg.6762a8eb18739403f2da.png",
+    "static/media/bg-gridpng.png": "/mdvx/static/media/bg-gridpng.4c8860dd67995d7522ed.png",
+    "static/media/news2.png": "/mdvx/static/media/news2.2d560882c0c2ebf86949.png",
+    "static/media/news1.png": "/mdvx/static/media/news1.73f386a18a509acc8b72.png",
+    "static/media/news3.png": "/mdvx/static/media/news3.f7726fa57916afd510df.png",
+    "static/media/lowcode.png": "/mdvx/static/media/lowcode.6e108c00607a753bbcf4.png",
+    "static/media/mgauge_thumbnail.png": "/mdvx/static/media/mgauge_thumbnail.fa64b10ef412797e7056.png",
+    "static/media/banner.jpg": "/mdvx/static/media/banner.e7906982eb6323c13ef2.jpg",
+    "static/media/Lexend-VariableFont_wght.ttf": "/mdvx/static/media/Lexend-VariableFont_wght.8c2b86fea1234bcd4234.ttf",
+    "static/media/bs_template.png": "/mdvx/static/media/bs_template.53525fe8f229aa995675.png",
+    "static/media/bg-developerLearn.jpg": "/mdvx/static/media/bg-developerLearn.cbb9b79dc9d510195420.jpg",
+    "static/media/productCurvyLines.png": "/mdvx/static/media/productCurvyLines.72c5c8a8f3d13e9ba665.png",
+    "static/media/apple-touch-icon.png": "/mdvx/static/media/apple-touch-icon.778ba576a313e0c4f033.png",
+    "static/media/revicons.eot": "/mdvx/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/mdvx/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/mdvx/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/mdvx/index.html",
+    "static/media/wave_white.svg": "/mdvx/static/media/wave_white.6936e863e2b1e5555a18b9321a41b160.svg",
+    "main.69522bd1.css.map": "/mdvx/static/css/main.69522bd1.css.map",
+    "main.eab59326.js.map": "/mdvx/static/js/main.eab59326.js.map",
+    "787.792a50db.chunk.js.map": "/mdvx/static/js/787.792a50db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69522bd1.css",
+    "static/js/main.eab59326.js"
+  ]
+}

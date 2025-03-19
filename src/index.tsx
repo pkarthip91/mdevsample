@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App";
-import { BrowserRouter } from "react-router-dom";
+import { BrowserRouter, BrowserRouter as Router } from "react-router-dom";
 import reportWebVitals from "./reportWebVitals";
 import "./index.css";
 import "./assets/fonts/Lexend/Lexend-VariableFont_wght.ttf";
